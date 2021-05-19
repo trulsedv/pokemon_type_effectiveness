@@ -1,0 +1,121 @@
+﻿#,Attacking,Defending,Effectiveness
+0,Normal,Rock,Not very effective
+1,Normal,Ghost,Immune
+2,Normal,Steel,Not very effective
+3,Fire,Fire,Not very effective
+4,Fire,Water,Not very effective
+5,Fire,Grass,Super effective
+6,Fire,Ice,Super effective
+7,Fire,Bug,Super effective
+8,Fire,Rock,Not very effective
+9,Fire,Dragon,Not very effective
+10,Fire,Steel,Super effective
+11,Water,Fire,Super effective
+12,Water,Water,Not very effective
+13,Water,Grass,Not very effective
+14,Water,Ground,Super effective
+15,Water,Rock,Super effective
+16,Water,Dragon,Not very effective
+17,Grass,Fire,Not very effective
+18,Grass,Water,Super effective
+19,Grass,Grass,Not very effective
+20,Grass,Poison,Not very effective
+21,Grass,Ground,Super effective
+22,Grass,Flying,Not very effective
+23,Grass,Bug,Not very effective
+24,Grass,Rock,Super effective
+25,Grass,Dragon,Not very effective
+26,Grass,Steel,Not very effective
+27,Electric,Water,Super effective
+28,Electric,Grass,Not very effective
+29,Electric,Electric,Not very effective
+30,Electric,Ground,Immune
+31,Electric,Flying,Super effective
+32,Electric,Dragon,Not very effective
+33,Ice,Fire,Not very effective
+34,Ice,Water,Not very effective
+35,Ice,Grass,Super effective
+36,Ice,Ice,Not very effective
+37,Ice,Ground,Super effective
+38,Ice,Flying,Super effective
+39,Ice,Dragon,Super effective
+40,Ice,Steel,Not very effective
+41,Fighting,Normal,Super effective
+42,Fighting,Ice,Super effective
+43,Fighting,Poison,Not very effective
+44,Fighting,Flying,Not very effective
+45,Fighting,Psychic,Not very effective
+46,Fighting,Bug,Not very effective
+47,Fighting,Rock,Super effective
+48,Fighting,Ghost,Immune
+49,Fighting,Dark,Super effective
+50,Fighting,Steel,Super effective
+51,Fighting,Fairy,Not very effective
+52,Poison,Grass,Super effective
+53,Poison,Poison,Not very effective
+54,Poison,Ground,Not very effective
+55,Poison,Rock,Not very effective
+56,Poison,Ghost,Not very effective
+57,Poison,Steel,Immune
+58,Poison,Fairy,Super effective
+59,Ground,Fire,Super effective
+60,Ground,Grass,Not very effective
+61,Ground,Electric,Super effective
+62,Ground,Poison,Super effective
+63,Ground,Flying,Immune
+64,Ground,Bug,Not very effective
+65,Ground,Rock,Super effective
+66,Ground,Steel,Super effective
+67,Flying,Grass,Super effective
+68,Flying,Electric,Not very effective
+69,Flying,Fighting,Super effective
+70,Flying,Bug,Super effective
+71,Flying,Rock,Not very effective
+72,Flying,Steel,Not very effective
+73,Psychic,Fighting,Super effective
+74,Psychic,Poison,Super effective
+75,Psychic,Psychic,Not very effective
+76,Psychic,Dark,Immune
+77,Psychic,Steel,Not very effective
+78,Bug,Fire,Not very effective
+79,Bug,Grass,Super effective
+80,Bug,Fighting,Not very effective
+81,Bug,Poison,Not very effective
+82,Bug,Flying,Not very effective
+83,Bug,Psychic,Super effective
+84,Bug,Ghost,Not very effective
+85,Bug,Dark,Super effective
+86,Bug,Steel,Not very effective
+87,Bug,Fairy,Not very effective
+88,Rock,Fire,Super effective
+89,Rock,Ice,Super effective
+90,Rock,Fighting,Not very effective
+91,Rock,Ground,Not very effective
+92,Rock,Flying,Super effective
+93,Rock,Bug,Super effective
+94,Rock,Steel,Not very effective
+95,Ghost,Normal,Immune
+96,Ghost,Psychic,Super effective
+97,Ghost,Ghost,Super effective
+98,Ghost,Dark,Not very effective
+99,Dragon,Dragon,Super effective
+100,Dragon,Steel,Not very effective
+101,Dragon,Fairy,Immune
+102,Dark,Fighting,Not very effective
+103,Dark,Psychic,Super effective
+104,Dark,Ghost,Super effective
+105,Dark,Dark,Not very effective
+106,Dark,Fairy,Not very effective
+107,Steel,Fire,Not very effective
+108,Steel,Water,Not very effective
+109,Steel,Electric,Not very effective
+110,Steel,Ice,Super effective
+111,Steel,Rock,Super effective
+112,Steel,Steel,Not very effective
+113,Steel,Fairy,Super effective
+114,Fairy,Fire,Not very effective
+115,Fairy,Fighting,Super effective
+116,Fairy,Poison,Not very effective
+117,Fairy,Dragon,Super effective
+118,Fairy,Dark,Super effective
+119,Fairy,Steel,Not very effective
